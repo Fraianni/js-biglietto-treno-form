@@ -14,11 +14,11 @@ genera_button.addEventListener('click',
 
         alert(age);
 
-        if (age == 'first') {
+        if (age == 'minorenne') {
             costo_tot = costo_tot - (costo_tot * 0.2);
         }
 
-        else if (age == 'second') {
+        else if (age == 'over') {
             costo_tot = costo_tot - (costo_tot * 0.4);
         }
 
