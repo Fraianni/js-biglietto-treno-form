@@ -21,3 +21,9 @@ h1 {
 .flex {
     display: flex;
 }
+
+.biglietto {
+    height: 500px;
+    width: 100%;
+    background-color: grey;
+}
